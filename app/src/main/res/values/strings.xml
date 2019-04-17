@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="button_activity_one">Go to Activity 2</string>
+    <string name="button_activity_two">Back to Activity 1</string>
+    <string name="text_view_activity_one">First Activity</string>
+    <string name="text_view_activity_two">Second Activity</string>
+</resources>
